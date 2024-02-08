@@ -1,0 +1,16 @@
+*backup*
+saved/
+wandb/
+plots/
+*pycache*
+*ipynb_checkpoints*
+*.tar*
+*dataset*
+*.swp
+*.h5
+*.pkl
+*temp*
+*_old*
+_old/
+sessions_pretraining/
+sessions_benchmark/
