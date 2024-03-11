@@ -129,7 +129,7 @@ example_bench:
 
 ### Step 2. Run the following script
 ```
-python run.py -sn example -mg {GPU indices separated by comma}
+python run.py -sn main -mg {GPU indices separated by comma}
 
 ```
 
