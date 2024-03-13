@@ -165,12 +165,12 @@ python run_pretrain.py -sn example -mg {GPU indices separated by comma}
 	<tr>
 		<td>Jueon Park&dagger;</td>		
 		<td>Data Mining and Information Systems Lab,<br>Korea University, Seoul, South Korea</td>
-		<td>juns94@korea.ac.kr</td>
+		<td>jueon_park@korea.ac.kr</td>
 	</tr>
 	<tr>
 		<td>Soyon Park</td>		
 		<td>Data Mining and Information Systems Lab,<br>Korea University, Seoul, South Korea</td>
-		<td>soyon0304@gmail.com</td>
+		<td>soyon_park@korea.ac.kr</td>
 	</tr>
   <tr>
     <td>Sanghoon Lee</td>   
