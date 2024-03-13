@@ -145,10 +145,8 @@ python run_pretrain.py -sn example -mg {GPU indices separated by comma}
 
 ### Downloading the Preprocessed Dataset and Pretrained Model
 
-- The dataset contains all pre-processed data that was used to pre-train MoLPLA and perform benchmark test on molecule property prediction
-- [DATASET (10GB)](https://drive.google.com/file/d/1sgWVvZ3ln56D9GP7u5VoUhoP4MD0IQTR/view?usp=sharing)
-- This repository in Google Drive contains all the files including the model checkpoints containing pre-trained parameters. Note that you might have to edit the directory configuration inside **model_config.pkl**.
-- [MODEL CHECKPOINT (best_loss.mdl)](https://drive.google.com/drive/folders/1fEtaPKuwDihHAprxQgWg2eKPXtNCi5xv?usp=drive_link)
+- The dataset contains all pre-processed data that was used to pre-train MoLPLA and perform benchmark test on molecule property prediction. [GOOGLE DRIVE DOWNLOAD LINK](https://drive.google.com/file/d/1sgWVvZ3ln56D9GP7u5VoUhoP4MD0IQTR/view?usp=sharing)
+- This repository in Google Drive contains all the files including the model checkpoints containing pre-trained parameters. Note that you might have to edit the directory configuration inside **model_config.pkl**. [GOOGLE DRIVE DOWNLOAD LINK](https://drive.google.com/drive/folders/1fEtaPKuwDihHAprxQgWg2eKPXtNCi5xv?usp=drive_link)
 
 
 ## Contributors
