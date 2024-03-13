@@ -9,7 +9,7 @@ Molecular core structures and R-groups are essential concepts in drug developmen
 
 ## How to run the experiments 
 
-### Step 1. Edit the confguration file **settings_default.yaml**.
+### Step 1. Edit the confguration file **settings.yaml**.
 ```
 example:
   dev_mode: 
@@ -141,6 +141,12 @@ python run.py -sn main -mg {GPU indices separated by comma}
 python run_pretrain.py -sn example -mg {GPU indices separated by comma}
 
 ```
+
+
+### Downloading the Preprocessed Dataset and Pretrained Model
+
+- [DATASET (10GB)](https://drive.google.com/file/d/1sgWVvZ3ln56D9GP7u5VoUhoP4MD0IQTR/view?usp=sharing)
+- [MODEL CHECKPOINT (best_loss.mdl)](https://drive.google.com/drive/folders/1fEtaPKuwDihHAprxQgWg2eKPXtNCi5xv?usp=drive_link)
 
 
 ## Contributors
